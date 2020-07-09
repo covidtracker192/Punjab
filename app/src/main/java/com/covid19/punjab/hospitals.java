@@ -190,5 +190,5 @@ public class hospitals extends FragmentActivity implements OnMapReadyCallback {
         Intent intent = new Intent(hospitals.this, home.class);
         startActivity(intent);
         finish();
-    };
+    }
 }
